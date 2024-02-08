@@ -1,3 +1,5 @@
+# 재용이 분산처리
+
 def processor(a, b):
     if a==1 or a==5 or a==6 :
         result = a
